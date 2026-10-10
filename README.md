@@ -33,11 +33,6 @@
 
 ---
 
-  This third part of Parrot AI Linux focuses on strengthening the security of a local AI agent through automated testing and adversarial Red Team scenarios.
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 `Linux` · `Parrot OS` · `Python` · `Qwen3` · `llama.cpp` · `pytest` · `Pydantic` · `Git` · `Policy Engine`
