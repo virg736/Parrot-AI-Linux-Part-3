@@ -99,11 +99,11 @@ Security controls evaluate each proposed action before execution.
 
 ---
 
-## 🛡️ Red Team Security Testing
+## Red Team Security Testing
 
 The AI agent was evaluated using 100 Red Team scenarios designed to test its security boundaries and decision-making behavior.
 
-### 📊 Test Results
+### Test Results
 
 | Decision | Results |
 |:---|---:|
@@ -147,14 +147,14 @@ These findings identify a potential security risk requiring further testing.
 
 ---
 
-## 🚀 Coming in Part 4
+## Coming in Part 4
 
 ### AI Defender vs. AI Attacker
 
 The next phase will introduce two AI agents:
 
-- **AI Defender** — protects the Linux environment through security policies
-- **AI Attacker** — evaluates the defender through controlled adversarial scenarios
+- **AI Defender** - protects the Linux environment through security policies
+- **AI Attacker** - evaluates the defender through controlled adversarial scenarios
 
 The objective is to strengthen security controls and expand Red Team testing.
 
