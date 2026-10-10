@@ -20,8 +20,6 @@
   This third part of Parrot AI Linux focuses on strengthening the security of a local AI agent through automated testing and adversarial Red Team scenarios.
 </p>
 
-
-<h2 align="center">🎥 Démonstration vidéo - Parrot AI Linux Partie 3 🎥</h2>
 <h2 align="center">🎥 Watch the Full Video on YouTube 🎥</h2>
 
 J'ai testé mon agent IA Linux avec 100 scénarios Red Team
