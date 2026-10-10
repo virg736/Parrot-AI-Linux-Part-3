@@ -22,9 +22,6 @@
 
 <h2 align="center">🎥 Watch the Full Video on YouTube 🎥</h2>
 
-J'ai testé mon agent IA Linux avec 100 scénarios Red Team
-pour évaluer sa sécurité et sa résistance aux attaques.
-
 <p align="center">
   <a href="https://www.youtube.com/watch?v=V7P1GnN_tMY">
     <img src="https://img.youtube.com/vi/V7P1GnN_tMY/maxresdefault.jpg"
