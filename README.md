@@ -1,6 +1,6 @@
 
 
-<h2 align="center">🛡️ AI Agent Security & Red Team Testing 🛡️</h2>
+<h2 align="center">🛡️I Tested My Linux AI Agent with 100 Red Team Scenarios, But Can It Be Tricked?🛡️</h2>
 
 <p align="center">
   <strong>Securing a Local AI Agent with Qwen3 and a Deterministic Policy Engine</strong>
