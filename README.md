@@ -6,6 +6,23 @@ pour évaluer sa sécurité et sa résistance aux attaques.
 ▶️ [Regarder la vidéo sur YouTube](https://www.youtube.com/watch?v=V7P1GnN_tMY)
 
 
+## 🎥 Video
+
+<h2 align="center">🎥 Watch the Full Video on YouTube</h2>
+
+🎥 Click on the image below to watch the full video on YouTube.
+
+🎥 I Tested My Linux AI Agent with 100 Red Team Scenarios, But Can It Be Tricked?
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=V7P1GnN_tMY">
+    <img src="https://img.youtube.com/vi/V7P1GnN_tMY/maxresdefault.jpg"
+         alt="I Tested My Linux AI Agent with 100 Red Team Scenarios"
+         width="700">
+  </a>
+</p>
+
+
 ---
 
 # Parrot AI Linux — Partie 3
