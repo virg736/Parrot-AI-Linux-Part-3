@@ -42,14 +42,14 @@
 
 `Linux` · `Parrot OS` · `Python` · `Qwen3` · `llama.cpp` · `pytest` · `Pydantic` · `Git` · `Policy Engine`
 
-- **Parrot Security OS** — Linux development and testing environment
-- **Python** — AI agent logic and security controls
-- **Qwen3** — local language model
-- **llama.cpp** — local LLM inference
-- **Pydantic** — structured data validation
-- **pytest** — automated security regression tests
-- **Policy Engine** — deterministic ALLOW / DENY / CLARIFY decisions
-- **Git** — version control
+- **Parrot Security OS** - Linux development and testing environment
+- **Python** - AI agent logic and security controls
+- **Qwen3** - local language model
+- **llama.cpp** - local LLM inference
+- **Pydantic** - structured data validation
+- **pytest** - automated security regression tests
+- **Policy Engine** - deterministic ALLOW / DENY / CLARIFY decisions
+- **Git** - version control
 
 ---
 
