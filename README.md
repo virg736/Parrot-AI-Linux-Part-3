@@ -1,18 +1,11 @@
 <h2 align="center">🎥 Démonstration vidéo - Parrot AI Linux Partie 3 🎥</h2>
 <h2 align="center">🎥 Watch the Full Video on YouTube 🎥</h2>
-## 🎥 Démonstration vidéo - Parrot AI Linux Partie 3
-
-J'ai testé mon agent IA Linux avec 100 scénarios Red Team
-pour évaluer sa sécurité et sa résistance aux attaques.
 
 
 ## 🎥 Video
 
-<h2 align="center">🎥 Watch the Full Video on YouTube</h2>
-
-🎥 Click on the image below to watch the full video on YouTube.
-
-🎥 I Tested My Linux AI Agent with 100 Red Team Scenarios, But Can It Be Tricked?
+J'ai testé mon agent IA Linux avec 100 scénarios Red Team
+pour évaluer sa sécurité et sa résistance aux attaques.
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=V7P1GnN_tMY">
