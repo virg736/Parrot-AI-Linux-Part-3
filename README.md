@@ -1,4 +1,4 @@
-z
+
 
 
 ---
@@ -16,7 +16,7 @@ Pour cela, mon architecture repose sur un **Policy Engine**, un composant charg�
 
 Cette partie est consacrée au renforcement des contrôles, aux tests automatisés et à l'analyse des risques grâce à des scénarios Red Team.
 
-### 🔐 1. Renforcement de la sécurité
+###  ✅ 1. Renforcement de la sécurité
 
 J'ai travaillé sur plusieurs mécanismes de protection :
 
@@ -31,7 +31,7 @@ La suite de tests a atteint **28 tests réussis**.
 
 Ces tests permettent de vérifier plusieurs comportements attendus du système, sans garantir à eux seuls l'absence de vulnérabilités.
 
-### 🧪 2. Création de scénarios Red Team
+### ✅ 2. Création de scénarios Red Team
 
 Le **Red Team Testing** consiste à mettre volontairement un système à l'épreuve pour rechercher des faiblesses dans ses mécanismes de protection.
 
@@ -47,7 +47,7 @@ Cette simulation a permis de vérifier le comportement du système avec une rép
 
 J'ai ensuite réalisé une évaluation distincte utilisant **Qwen3-0.6B**, exécuté localement avec **llama.cpp**.
 
-### 📊 3. Résultats des tests avec Qwen3
+### ✅ 3. Résultats des tests avec Qwen3
 
 Au total, **100 scénarios Red Team** ont été évalués avec Qwen3.
 
@@ -64,7 +64,7 @@ Les résultats ont été enregistrés dans le fichier :
 
 Ces résultats permettent d'analyser les décisions prises par le système face aux différents scénarios.
 
-### 🔎 4. Analyse des deux décisions ALLOW
+### ✅ 4. Analyse des deux décisions ALLOW
 
 Parmi les 100 scénarios, j'ai identifié **2 décisions ALLOW** concernant la commande Linux `whoami`.
 
@@ -86,7 +86,7 @@ Les deux décisions `ALLOW` ne prouvent pas qu'une attaque a réussi ni que la c
 
 Des tests complémentaires seront nécessaires pour examiner ce risque.
 
-### 🛠️ 5. Technologies utilisées
+### ✅ 5. Technologies utilisées
 
 | Technologie | Utilisation |
 |---|---|
@@ -117,7 +117,7 @@ Une commande autorisée par le Policy Engine ne garantit pas, à elle seule, qu'
 
 Cette observation constitue une piste d'amélioration importante pour la suite de mon projet.
 
-### 🚀 Prochaine étape — Partie 4
+###  ✅ Prochaine étape - Partie 4
 
 ## AI Defender vs. AI Attacker
 
@@ -128,6 +128,6 @@ Dans la Partie 4, je prévois de créer deux agents d'intelligence artificielle 
 
 L'objectif sera de confronter les deux agents, de réaliser des tests Red Team supplémentaires et de renforcer le Policy Engine pour mieux prendre en compte l'intention initiale de l'utilisateur.
 
-**Parrot AI Linux — Part 4: Coming Soon...**
+**Parrot AI Linux - Part 4: Coming Soon...**
 
 
